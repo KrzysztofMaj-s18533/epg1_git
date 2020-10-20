@@ -1,0 +1,9 @@
+1. Fork button, upper-right corner on the repo page
+2. git clone https://github.com/KrzysztofMaj-s18533/epg1_git
+3. cd epg1_git
+4. git checkout -b "hw-s18533"
+5. git checkout -b "rebase-me"
+6. git rebase hw-s18533
+7. git checkout hw-s18533
+8. git merge rebase-me
+9. git merge origin/merge-me
